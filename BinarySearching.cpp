@@ -30,9 +30,16 @@ int iterativeBinarySearch(int arr[], int n, int x)
     return -1;
 }
 
+
+// recursive method takes O(logn) auxillary space
 int recursiveBinarySearch(int arr[], int n, int low, int high,int x)
 {
     int mid = (low+high)/2;
+
+    if(low > high)
+    {
+        return -1;
+    }
 
     if (arr[mid]>x)
     {
