@@ -1,0 +1,1 @@
+{"name":"Local: NumberOf1inBinaryArray","url":"c:\\Users\\LENOVO\\Desktop\\Searching\\NumberOf1inBinaryArray.cpp","tests":[{"id":1622783716556,"input":"6 1\n0 0 0 0 0 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\LENOVO\\Desktop\\Searching\\NumberOf1inBinaryArray.cpp","group":"local","local":true}
