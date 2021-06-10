@@ -1,0 +1,1 @@
+{"name":"Local: moreThanNByKOccurences","url":"c:\\Users\\LENOVO\\Desktop\\Searching\\moreThanNByKOccurences.cpp","tests":[{"id":1623319834569,"input":"6 4\n1 2 3 1 2 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\LENOVO\\Desktop\\Searching\\moreThanNByKOccurences.cpp","group":"local","local":true}
